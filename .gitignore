@@ -1,0 +1,66 @@
+# Android/IntelliJ/Studio
+*.iml
+*.hprof
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local configuration
+local.properties
+.idea/
+.cache/
+captures/
+.externalNativeBuild/
+
+# Signing keys
+*.jks
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Android Studio Navigation Editor temp files
+.navigation/
+
+# Crashlytics
+crashlytics.properties
+fabric.properties
+
+# NDK
+obj/
+
+# Generated files
+gen/
+out/
+
+# Kotlin
+*.class
+
+# Jetpack Compose
+*.swp
+
+# Misc
+*.apk
+*.ap_
+*.dex
+
+# Unit test reports
+test-output/
+
+# Android Studio profiler
+*.trace
+
+# Gradle Wrapper
+gradle-wrapper.jar
+gradle-wrapper.properties
+
+# Keystore files
+*.keystore
+
+# Firebase
+google-services.json
