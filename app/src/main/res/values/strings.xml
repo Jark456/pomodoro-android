@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">pomodoroandroid</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_pomodoro_timer_ui">PomodoroTimerUI</string>
+    <string name="title_activity_timer_view_model">TimerViewModel</string>
+</resources>
