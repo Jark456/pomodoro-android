@@ -23,10 +23,11 @@
 - Jetpack Compose
 
 
+-----------
+-----------
 
 
 
-# Pomodoro Android ⏱️
 ## 🇫🇮 Suomeksi
 
 **Pomodoro Android** on yksinkertainen mutta tehokas ajastinsovellus, joka perustuu Pomodoro-tekniikkaan. Sovellus auttaa keskittymään työtehtäviin jaksottamalla työ- ja taukoajat.
